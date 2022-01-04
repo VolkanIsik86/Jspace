@@ -54,6 +54,13 @@
     <modules>
         <module>common</module>
         <module>examples</module>
+        <module>Fridge</module>
+        <module>Example2_1</module>
+        <module>Example_3_1</module>
+        <module>Exercise_2_4</module>
+        <module>Exercise_3_2</module>
+        <module>Example_3_3</module>
+        <module>Example_4_1</module>
     </modules>
 
     <dependencies>
