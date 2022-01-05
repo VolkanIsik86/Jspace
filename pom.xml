@@ -61,6 +61,7 @@
         <module>Exercise_3_2</module>
         <module>Example_3_3</module>
         <module>Example_4_1</module>
+        <module>Exercise_5_1</module>
     </modules>
 
     <dependencies>
